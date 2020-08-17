@@ -3,7 +3,7 @@
 
 * 실행 한경 
 : GOOGLE https://colab.research.google.com/
-:fire :fire :fire 
+:fire: :fire: :fire: 
 
 * 실제 환경
 : 주피터 
